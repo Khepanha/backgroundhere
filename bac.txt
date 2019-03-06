@@ -1,19 +1,19 @@
                      Enter your Background
 
--Name:
+-Name:  khe Panha
 
--Gender:
+-Gender: Male
 
--Age:
+-Age: 18
 
--School:
+-School: KIT
 
--ID:
+-ID: 1101801054
 
--Dorm:
+-Dorm: M
 
--Section:
+-Section: B
 
 
-             comment:....................................
+             comment:...................................
 
